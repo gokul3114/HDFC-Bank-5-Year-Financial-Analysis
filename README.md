@@ -839,7 +839,7 @@ The project demonstrates how raw financial data can be transformed into a struct
 
 ### Gokul G
 
-I am an **MCA student and aspiring Data Analyst** with a strong interest in transforming raw data into meaningful business insights. I enjoy working with data to identify trends, analyze business performance, and create clear, interactive dashboards that support data-driven decision-making.
+I am an **MCA Graduate and aspiring Data Analyst** with a strong interest in transforming raw data into meaningful business insights. I enjoy working with data to identify trends, analyze business performance, and create clear, interactive dashboards that support data-driven decision-making.
 
 ### 🛠️ Skills
 
