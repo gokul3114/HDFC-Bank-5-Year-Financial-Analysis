@@ -835,18 +835,32 @@ The project demonstrates how raw financial data can be transformed into a struct
 
 ---
 
-# 👤 Author
+# 👤 About the Author
 
-**Gokul G**
+### Gokul G
 
-Data Analyst Portfolio Project
+I am an **MCA student and aspiring Data Analyst** with a strong interest in transforming raw data into meaningful business insights. I enjoy working with data to identify trends, analyze business performance, and create clear, interactive dashboards that support data-driven decision-making.
 
-Skills demonstrated:
+### 🛠️ Skills
 
-**Excel | SQL | Python | Pandas | NumPy | Matplotlib | Power BI | Data Visualization | Business Analysis**
+- 📊 **Data Analysis:** Excel, SQL, Python
+- 🐍 **Python:** Pandas, NumPy, Matplotlib
+- 🗄️ **Database:** MySQL
+- 📈 **Data Visualization:** Power BI, Matplotlib
+- 📋 **Analytics:** Data Cleaning, Data Validation, KPI Analysis, Ad-Hoc Analysis
+- 💼 **Business Analysis:** Trend Analysis, Performance Analysis, Business Insights
+
+### 🔗 Connect with Me
+
+- 💼 **LinkedIn:** [Gokul G](https://www.linkedin.com/in/gokul-g-1a44952b3/)
+- 💻 **GitHub:** [gokul3114](https://github.com/gokul3114)
 
 ---
 
-## ⭐ If you find this project useful
+## ⭐ Support
 
-Feel free to explore the SQL queries, Python analysis, Power BI dashboard, and management report included in this repository.
+If you found this project useful or interesting, consider giving the repository a ⭐ on GitHub.
+
+Your support and feedback are greatly appreciated!
+
+Feel free to explore the **SQL queries, Python analysis, Excel dataset, Power BI dashboard, presentation, and management report** included in this repository.
