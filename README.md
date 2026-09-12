@@ -675,12 +675,8 @@ HDFC-Bank-5-Year-Financial-Analysis/
 │   └── HDFC_Bank_Analysis.ipynb
 │
 ├── SQL/
-│   ├── 01_Create_Database.sql
-│   ├── 02_Create_Tables.sql
-│   ├── 03_Insert_Data.sql
-│   ├── 04_Validation_Queries.sql
-│   └── 05_Analysis_Queries.sql
-│
+│   ├── sql_queries.sql
+│  
 ├── PPT/
 │   └── HDFC_Bank_Analysis_Presentation.pptx
 │
@@ -789,11 +785,7 @@ Excel_Cleaned/
 Open the SQL scripts in sequence:
 
 ```text
-01_Create_Database.sql
-02_Create_Tables.sql
-03_Insert_Data.sql
-04_Validation_Queries.sql
-05_Analysis_Queries.sql
+01_sql queries.sql
 ```
 
 ### 4. Review Python Analysis
